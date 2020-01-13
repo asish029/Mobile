@@ -7,4 +7,4 @@ apple
 
 micromax
 realme
-poco
+poco=100
