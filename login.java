@@ -1,0 +1,5 @@
+sim
+ram
+rom
+camera
+
