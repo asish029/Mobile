@@ -4,3 +4,7 @@ vivo
 nokia
 samsung
 apple
+
+micromax
+realme
+poco
